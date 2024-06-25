@@ -1,5 +1,4 @@
 Hello, I'm Quinten. 
-I'm currently in my senior year of high school.
 At home I like to draw, read, play video games, and code. 
 
 <!---
